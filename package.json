@@ -47,6 +47,6 @@
     "ledgerco": "^1.2.1",
     "promise-timeout": "^1.1.1",
     "strip-hex-prefix": "^1.0.0",
-    "web3-provider-engine": "^13.3.3"
+    "web3-provider-engine": "^14.0.4"
   }
 }
